@@ -7,7 +7,7 @@
     <th width="200">Status</th>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/alexleoncoeur/libft">Libft</td>
+    <td align="center"><a href="https://github.com/AlexLeoncoeur/libft">Libft</td>
     <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/112-100-blue"></td>
   </tr>
 </table>
