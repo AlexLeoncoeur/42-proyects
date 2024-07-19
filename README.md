@@ -51,7 +51,7 @@
     <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/n%2Fa-100-yellow"></td>
   </tr>
   <tr>
-    <td align="center"><a href="">Exam Rank 2</td>
+    <td align="center">Exam Rank 2</td>
     <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/100-100-purple"></td>
   </tr>
 </table>
@@ -71,7 +71,7 @@
     <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/n%2Fa-100-yellow"></td>
   </tr>
   <tr>
-    <td align="center"><a href="">Exam Rank 3</td>
+    <td align="center">Exam Rank 3</td>
     <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/n%2Fa-100-purple"></td>
   </tr>
 </table>
@@ -111,7 +111,7 @@
     <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/n%2Fa-100-yellow"></td>
   </tr>
   <tr>
-    <td align="center"><a href="">Exam Rank 4</td>
+    <td align="center">Exam Rank 4</td>
     <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/n%2Fa-100-purple"></td>
   </tr>
 </table>
