@@ -1,4 +1,4 @@
-<h1 align="center">42 proyects:</h1>
+<h1 align="center">42 projects:</h1>
 
 <h3 align="center">Rank 0:</h3>
 <table align="center">
