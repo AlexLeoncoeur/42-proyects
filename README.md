@@ -63,11 +63,11 @@
     <th width="200">Status</th>
   </tr>
   <tr>
-    <td align="center"><a href="">MiniShell</td>
+    <td align="center"><a href="https://github.com/AlexLeoncoeur/Minishell">MiniShell</td>
     <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/95-100-42bff5"></td>
   </tr>
   <tr>
-    <td align="center"><a href="">Philosophers</td>
+    <td align="center"><a href="https://github.com/AlexLeoncoeur/Philosophers">Philosophers</td>
     <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/100-100-42bff5"></td>
   </tr>
   <tr>
