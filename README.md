@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/AlexLeoncoeur/libft">Libft</td>
-    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/112-100-blue"></td>
+    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/112-100-42bff5"></td>
   </tr>
 </table>
 
@@ -20,15 +20,15 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/AlexLeoncoeur/ft_printf">ft_printf</td>
-    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/100-100-blue"></td>
+    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/100-100-42bff5"></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/AlexLeoncoeur/get_next_line">Get Next Line</td>
-    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/125-100-blue"></td>
+    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/125-100-42bff5"></td>
   </tr>
   <tr>
     <td align="center">Born2beroot</td>
-    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/125-100-blue"></td>
+    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/125-100-42bff5"></td>
   </tr>
 </table>
 
@@ -40,19 +40,19 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/AlexLeoncoeur/pipex">Pipex</td>
-    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/125-100-blue"></td>
+    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/125-100-42bff5"></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/AlexLeoncoeur/so_long">so_long</a></td>
-    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/100-100-blue"></td>
+    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/100-100-42bff5"></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/AlexLeoncoeur/push_swap">Push swap</td>
-    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/125-100-blue"></td>
+    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/125-100-42bff5"></td>
   </tr>
   <tr>
     <td align="center">Exam Rank 2</td>
-    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/100-100-purple"></td>
+    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/100-100-9ef542"></td>
   </tr>
 </table>
 
@@ -64,15 +64,15 @@
   </tr>
   <tr>
     <td align="center"><a href="">MiniShell</td>
-    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/n%2Fa-100-yellow"></td>
+    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/95-100-42bff5"></td>
   </tr>
   <tr>
     <td align="center"><a href="">Philosophers</td>
-    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/n%2Fa-100-yellow"></td>
+    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/100-100-42bff5"></td>
   </tr>
   <tr>
     <td align="center">Exam Rank 3</td>
-    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/n%2Fa-100-purple"></td>
+    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/100-100-9ef542"></td>
   </tr>
 </table>
 
