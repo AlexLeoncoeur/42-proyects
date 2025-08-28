@@ -83,36 +83,36 @@
     <th width="200">Status</th>
   </tr>
   <tr>
-    <td align="center"><a href="">MiniRT</td>
-    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/n%2Fa-100-yellow"></td>
+    <td align="center"><a href="">Cub3d</td>
+    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/120-100-42bff5"></td>
   </tr>
   <tr>
     <td align="center"><a href="">NetPractice</td>
-    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/n%2Fa-100-yellow"></td>
+    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/100-100-42bff5"></td>
   </tr>
   <tr>
     <td align="center"><a href="">C++ Module 00</td>
-    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/n%2Fa-100-yellow"></td>
+    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/100-100-42bff5"></td>
   </tr>
   <tr>
     <td align="center"><a href="">C++ Module 01</td>
-    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/n%2Fa-100-yellow"></td>
+    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/100-100-42bff5"></td>
   </tr>
   <tr>
     <td align="center"><a href="">C++ Module 02</td>
-    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/n%2Fa-100-yellow"></td>
+    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/100-100-42bff5"></td>
   </tr>
   <tr>
     <td align="center"><a href="">C++ Module 03</td>
-    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/n%2Fa-100-yellow"></td>
+    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/100-100-42bff5"></td>
   </tr>
   <tr>
     <td align="center"><a href="">C++ Module 04</td>
-    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/n%2Fa-100-yellow"></td>
+    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/100-100-42bff5"></td>
   </tr>
   <tr>
     <td align="center">Exam Rank 4</td>
-    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/n%2Fa-100-purple"></td>
+    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/100-100-9ef542"></td>
   </tr>
 </table>
 
